@@ -1,0 +1,10 @@
+﻿  源.cpp
+C:\Users\a\source\repos\new\new\源.cpp(247,45): error C2664: “void page__title(char *)”: 无法将参数 1 从“const char [5]”转换为“char *”
+C:\Users\a\source\repos\new\new\源.cpp(247,37): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+C:\Users\a\source\repos\new\new\源.cpp(28,6): message : 参见“page__title”的声明
+C:\Users\a\source\repos\new\new\源.cpp(262,45): error C2664: “void page__title(char *)”: 无法将参数 1 从“const char [5]”转换为“char *”
+C:\Users\a\source\repos\new\new\源.cpp(262,37): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+C:\Users\a\source\repos\new\new\源.cpp(28,6): message : 参见“page__title”的声明
+C:\Users\a\source\repos\new\new\源.cpp(277,45): error C2664: “void page__title(char *)”: 无法将参数 1 从“const char [5]”转换为“char *”
+C:\Users\a\source\repos\new\new\源.cpp(277,37): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+C:\Users\a\source\repos\new\new\源.cpp(28,6): message : 参见“page__title”的声明
